@@ -9,7 +9,7 @@ AI-Based Loan Default Prediction System.
 2. To clean data - handle missing values, duplicates, and outliers.
 3. To perform EDA to find relation between income, credit score, loan amount and default.
 4. To create new risk indicators like credit_risk_score, debt_to_income_ratio.
-5. To visualize default patterns with 10 charts and give recommendations to reduce NPA.
+5. To visualize default patterns with 9 charts and give recommendations to reduce NPA.
 
 ## 📊 Dataset Description
 1. Source: Kaggle - Loan Default / Loan Approval Dataset.
